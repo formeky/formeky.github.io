@@ -21,11 +21,11 @@ info:
 # IMAGE CONFIGURATION >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> start
 defaults:
   # Favicon
-  favicon: /images/haibara.webp
+  favicon: https://p3-passport.byteimg.com/img/user-avatar/5db444f064028878bc18c13d6c963cb6~100x100.awebp
   # Site logo
   logo: 
   # Site avatar
-  avatar: /images/haibara.webp
+  avatar: https://p3-passport.byteimg.com/img/user-avatar/5db444f064028878bc18c13d6c963cb6~100x100.awebp
 # IMAGE CONFIGURATION <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< end
 
 
