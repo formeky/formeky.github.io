@@ -102,7 +102,7 @@ home_banner:
   title: 不要温柔的走入那个良夜
   # Home banner subtitle
   subtitle:
-    text: [] # subtitle text, array
+    text: ["记录我想记录的。","Capture that which I wish to immortalize."] # subtitle text, array
     typing_speed: 100 # Typing speed (ms)
     backing_speed: 80 # Backing speed (ms)
     starting_delay: 500 # Start delay (ms)
