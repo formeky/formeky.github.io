@@ -109,6 +109,9 @@ home_banner:
     backing_delay: 1500 # Backing delay (ms)
     loop: true # Whether to loop
     smart_backspace: true # Whether to smart backspace
+    hitokoto:
+      enable: true
+      api: https://v1.hitokoto.cn/
   # Color of home banner text
   text_color: 
     light: "#fff" # light mode
